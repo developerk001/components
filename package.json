@@ -4,7 +4,8 @@
   "description": "Flexible and dynamic front-end library.",
   "main": "index.html",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch:sass": "node-sass sass/main.scss css/main.css -w"
   },
   "repository": {
     "type": "git",
