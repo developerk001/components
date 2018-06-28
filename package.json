@@ -1,0 +1,27 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "description": "Flexible and dynamic front-end library.",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developerk786/components.git"
+  },
+  "keywords": [
+    "framework",
+    "library",
+    "components"
+  ],
+  "author": "Gurash Tech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/developerk786/components/issues"
+  },
+  "homepage": "https://github.com/developerk786/components#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
